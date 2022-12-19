@@ -105,7 +105,7 @@ yargs.command({
 
 //add, remove, read and list command
 
-// console.log(yargs.argv);//an object with two properties first is underscore that stores list of arguments and second is $0 that stores file name that we run
+//console.log(yargs.argv);//an object with two properties first is underscore that stores list of arguments and second is $0 that stores file name that we run
 //run this with node app add --title"adds a new property title with this value"
 
 yargs.parse();//M2 to parse arguments(M1 is yargs.argv)

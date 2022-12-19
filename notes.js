@@ -10,6 +10,7 @@ const addNote=(title,body)=>{
     })
 
     debugger
+    //in the end, you have debugging links
 
     if(!duplicateNote){
     notes.push({
